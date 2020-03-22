@@ -1,6 +1,6 @@
 # DigimonforQuanX
 
-**为「QuantumultX」持续更新的「Digimon数码宝贝」策略组图标**
+**为「QuantumultX」完成的「Digimon数码宝贝」策略组图标**
 
 
 ## 项目简介
